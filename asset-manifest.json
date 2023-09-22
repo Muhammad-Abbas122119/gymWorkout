@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gymWorkout/static/css/main.2ba147e5.css",
+    "main.js": "/gymWorkout/static/js/main.d7e28bcb.js",
+    "static/media/equipment.jpg": "/gymWorkout/static/media/equipment.9dbe7770502f9c3fdd20.jpg",
+    "static/media/cover.jpg": "/gymWorkout/static/media/cover.ef20bf09d38f7f7b01ad.jpg",
+    "static/media/bodyPart.jpg": "/gymWorkout/static/media/bodyPart.2c4e9652e442d4c71a33.jpg",
+    "index.html": "/gymWorkout/index.html",
+    "main.2ba147e5.css.map": "/gymWorkout/static/css/main.2ba147e5.css.map",
+    "main.d7e28bcb.js.map": "/gymWorkout/static/js/main.d7e28bcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba147e5.css",
+    "static/js/main.d7e28bcb.js"
+  ]
+}
